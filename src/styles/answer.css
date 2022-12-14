@@ -1,0 +1,13 @@
+[class$='answer'] {
+  font-size: 18px;
+  margin-top: 12px;
+  font-style: italic;
+}
+
+.positive_answer {
+  color: #090;
+}
+
+.negative_answer {
+  color: #900;
+}
