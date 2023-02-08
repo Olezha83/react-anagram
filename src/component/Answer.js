@@ -1,4 +1,4 @@
-import '../styles/answer.css'
+import './Answer.css'
 
 function Answer({ visibility }) {
   if (visibility === 'positive') {
